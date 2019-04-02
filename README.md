@@ -167,10 +167,11 @@ Here is a list of apps that I use the most in my day to day life, categorized by
 
 This is all for the Google stuff that I couldn't categorize.
 
-#### [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm) - Mail client
+#### [Spark](https://play.google.com/store/apps/details?id=com.readdle.spark) - Mail client
 
 - Unified inbox.
-- Works great because all of my email accounts are Google-based.
+- Fast.
+- Batch actions.
 
 #### [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) - Hub for all my Google stuff
 
