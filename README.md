@@ -229,7 +229,7 @@ This is all for the Google stuff that I couldn't categorize.
 
 - Day One is my digital life journal.
 
-#### [Evernote](https://evernote.com) - Large writing, scans, web clips, and annotations
+#### [Notion](https://notion.so) - Large writing, scans, web clips, and annotations
 
 - I do my huge writing here.
 - If I want to access a document from anywhere, I usually store it here.
