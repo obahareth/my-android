@@ -49,11 +49,12 @@ I laid out folders on my home screen based on the word that pops up in my mind w
 
 ### Phone
 
-#### [Google Pixel 3](https://store.google.com/us/product/pixel_3)
+#### [Samsung Galaxy S10](https://www.samsung.com/us/mobile/galaxy-s10/)
 
-- Stock Android.
-- Great camera.
-- No notch.
+- Great battery life.
+- Great performance.
+- Good camera.
+- Actually supported in my region (My previous Pixel 3 broke down and had all kinds of hardware failures and no matter how much I tried, Google wouldn't replace it (even though it's under warranty) because of my region).
 
 ### Headphones
 
