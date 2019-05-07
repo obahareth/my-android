@@ -3,13 +3,13 @@
 > List of applications and tools that make my Android experience even more amazing. Inspired by https://github.com/nikitavoloboev/my-ios
 
 <a align="center" href="https://github.com/obahareth/my-android#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/TmlzIsx.png"></a>
+    <img width="250" heigth="400" src="https://imgur.com/k1VnVoE.png"></a>
 
 <a align="center" href="https://github.com/obahareth/my-android#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/cdwgA3e.png"></a>
+    <img width="250" heigth="400" src="https://imgur.com/Z3sk5K3.png"></a>
 
 <a align="center" href="https://github.com/obahareth/my-android#readme">
-    <img width="250" heigth="400" src="https://i.imgur.com/nzM57BU.png"></a>
+    <img width="250" heigth="400" src="https://imgur.com/Qlwf5AM.png"></a>
 
 ##### Contents
 
@@ -68,9 +68,7 @@ I laid out folders on my home screen based on the word that pops up in my mind w
 
 ### Wallpaper
 
-![](https://imgur.com/6lRq8BD.gif)
-
-I don't know the name for this but I use [PixelWave Wallpapers](https://play.google.com/store/apps/details?id=maa.pixelwavewallpapers) to find live pixelated wallpapers.
+<img width="350" heigth="450" src="https://i.imgur.com/RurSfmZ.jpg">
 
 ### Launcher
 
@@ -319,6 +317,10 @@ This is all for the Google stuff that I couldn't categorize.
 - Clock.
 - At a Glance, from the [Google app](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox).
     - Automatically shows me what I need to see at the moment (traffic to home or work, weather, next calendar event, etc.)
+- [DigiCal](https://play.google.com/store/apps/details?id=com.digibites.calendar&hl=en_US)
+- [Materialistic](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) (shows top Hacker News stories)
+- [Check In](https://play.google.com/store/apps/details?id=com.foursquare.robin) (Swarm check in)
+- [Add Task](https://play.google.com/store/apps/details?id=com.todoist) (Todoist,
 
 ## Tasker
 
